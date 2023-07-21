@@ -5,7 +5,16 @@
 
 */
 
-
+/*
 $(document).ready(()=>{
     $("p").hide();
 })
+
+$(()=>{
+    $("h1").hide();
+})
+
+*/
+
+$("#parrafo1").hide();
+$(".parrafo2").hide();
