@@ -16,5 +16,13 @@ $(()=>{
 
 */
 
+/*
+
 $("#parrafo1").hide();
 $(".parrafo2").hide();
+
+*/
+
+$("p.c1").hide();
+
+$("ul li:first-child").hide();
