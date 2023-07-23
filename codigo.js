@@ -23,6 +23,13 @@ $(".parrafo2").hide();
 
 */
 
+/*
 $("p.c1").hide();
 
 $("ul li:first-child").hide();
+*/
+
+
+$("ul li:first-child").hide(1000);
+
+
